@@ -4,7 +4,7 @@
   "description": "Test App - Client",
   "main": "index.js",
   "scripts": {
-    "start": "parcel ./index.html -p 8080 --open"
+    "start": "parcel ./index.html -p 8080 --no-hmr"
   },
   "author": "Mimoh Shrestha",
   "license": "ISC",
